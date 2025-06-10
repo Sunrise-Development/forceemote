@@ -2,7 +2,7 @@
 With this script, admins can force an emote on other players via command – perfect for fun, RP, or events.
 
 ✅ Features:
-/forcemote [id] [emote] – Player executes the emote
+/forceemote [id] [emote] – Player executes the emote
 
 Only admins can use the command
 
